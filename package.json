@@ -13,6 +13,9 @@
   },
   "author": "Bustle",
   "license": "MIT",
+  "dependencies": {
+    "ember-cli-babel": "^5.1.7"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
     "ember-cli": "0.2.1",
